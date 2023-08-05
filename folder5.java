@@ -6,7 +6,7 @@ public class folder5 {
         // //while loops
         // int counter = 0;
         // while (counter <10){
-        //     System.out.println("jai love nitasha ");
+        //     System.out.println(" jai prakash shah");
         //     counter++;
         // }
 
@@ -20,7 +20,7 @@ public class folder5 {
         // do while
         // int counter = 1;
         // do {
-        //     System.out.println("jai love nitasha ");
+        //     System.out.println("jai shree ram ");
         //     counter++;
     
         // }while(counter <= 10);
