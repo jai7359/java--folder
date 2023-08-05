@@ -13,7 +13,7 @@ public class folder5 {
 
         // for loops
         // for(int i=0;i<9;i++){
-        //     System.out.println("jai love nitasha ");
+        //     System.out.println(" write which u want to loop");
 
         // }
 
